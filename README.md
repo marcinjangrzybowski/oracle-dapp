@@ -1,6 +1,6 @@
 ## oracle-dapp
 
-WIP, naive implementatioon of oracle in Pact for learning purposes.
+WIP, naive implementation of oracle contract in Pact for learning purposes.
 
 #TODO
 * react frontend
